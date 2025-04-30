@@ -1,4 +1,4 @@
-API_KEY="cLy87zv0l+CmKqb9QD5dpw@@"
+API_KEY="DDFUFbGlDwBeBpqik2UOcBQ5yIKjrTImkEmnc4Z/0iM@"
 default_root_uri= "https://api.mstock.trade/"
 routes= {
         "login": "openapi/typea/connect/login",
